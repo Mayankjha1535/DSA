@@ -193,7 +193,7 @@ int main()
 	cout<<"Search for 11 "<<Search(root,11)<" " ;
 	int bst = isBST(root);
 	if(bst){
-		cout<<"Tree is a BST ";
+		cout<<"Given Tree is a BST ";
 	}
 	else{
 		cout<<"Tree is not a BST ";
