@@ -260,6 +260,6 @@ int main()
 	search(root, 12);
 	Delete(root, 12);
 	cout<<endl;
-	cout<<"Inorder traversal"<<" ";
+	cout<<"Inorder_traversal"<<" ";
 	Inorder(root);
 }
